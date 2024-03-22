@@ -1,0 +1,109 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: gray;
+    font-family: "red Hat Display" , sans-serif;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+section {
+    margin: -20px; 
+}
+#pagina-um {
+    margin: 10px;
+    padding: 20px;
+    background-color: white;
+    border: 1px solid black;
+    width: 485px;
+}
+
+img {
+    width: 180px;
+    height: 180px;
+    border-radius: 360px;
+    border: 7px solid #7ED957;
+    margin: 6px;
+}
+
+.left {
+    float: left;
+    background-color: #000000;
+    width: 210px;
+    padding: 30px;
+    height: 732px;
+}
+
+.right {
+    float: right;
+    
+}
+
+.tutilo-nome {
+    color: white;
+    font-size: 28.3px;
+}
+
+.tutilo-curso {
+    color: #7ED957;
+    font-size: 14.1px; 
+}
+
+.educaco {
+    color: #7ED957;
+    font-size: 14.6px;
+}
+
+.tutilo-left {
+    font-size: 15.2px;
+}
+
+
+.tutilo-right {
+    font-size: 15.2px;
+}
+
+ul li {
+    font-size: 10.1px;   
+}
+
+#pagina-dois{
+    margin: 10px;
+    padding: 20px;
+    background-color: white;
+    border: 1px solid black;
+    width: 485px;
+    height: 752px;   
+}
+
+.pagina-left {
+   float: left;
+}
+
+.pagina-right{
+    float: right; 
+}
+
+.material-symbols-outlined {
+    color: #7ED957;
+    font-size: 1em;
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+
+a {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+}
+
+
+
+
